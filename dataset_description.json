@@ -1,0 +1,22 @@
+{
+    "Name": "A Map of Anticipatory Activity in Mouse Motor Cortex",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Data from \"A Map of Anticipatory Activity in Mouse Motor Cortex\" Chen et al. Neuron 2017",
+    "DatasetType": "raw",
+    "Authors": [
+        "Chen, Tsai-Wen",
+        "Li, Nuo",
+        "Daie, Kayvon",
+        "Svoboda, Karel"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
